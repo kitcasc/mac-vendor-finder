@@ -27,7 +27,7 @@ A Python GUI application that identifies hardware manufacturers from MAC address
    ```bash
    python mac_lookup.py
 
-## Usage
+### Usage
 # Manual Query:
 
 Enter any MAC address in the input field (format like 00:1A:2B:3C:4D:5E)
@@ -42,7 +42,7 @@ Click "Auto-fill Local MAC" to automatically detect and fill your system's MAC a
 
 Click "Download/Update OUI database" to get the latest vendor information
 
-## How It Works
+### How It Works
 # The application:
 
 Uses multiple methods to detect local MAC addresses (UUID and system commands)
